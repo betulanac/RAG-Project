@@ -1,0 +1,14 @@
+PyPDF2==3.0.1
+python-docx==1.1.0
+langchain==0.2.16
+sentence-transformers==2.7.0
+python-dotenv==1.0.1
+streamlit==1.33.0
+huggingface_hub==0.24.5
+cohere==5.8.1
+chromadb==0.5.5
+langchain_community==0.2.16
+langchain_openai==0.1.17
+bs4==0.0.2
+langchain_cohere==0.2.4
+faiss-cpu==1.8.0
